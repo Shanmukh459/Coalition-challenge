@@ -1,0 +1,7 @@
+This is being submitted by Shanmukh. The below links contains the artifacts and the live demo of the Coalition Front end assessment.
+
+The code related to the assessment can be found here: https://github.com/Shanmukh459/Coalition-challenge
+
+The app is deployed in vercel and can be acessed here: https://shanmukh-coalition-challenge.vercel.app/
+
+Thank you!
